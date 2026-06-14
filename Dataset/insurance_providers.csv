@@ -1,0 +1,31 @@
+insurance_id,provider_name,plan_type,coverage_pct,max_coverage_amount,status
+1,Blue Cross,EPO,85,1000000,Discontinued
+2,Aetna,Catastrophic,80,1000000,Active
+3,Cigna,Catastrophic,95,10000,Active
+4,UnitedHealth,EPO,70,25000,Active
+5,Kaiser Permanente,HMO,80,50000,Active
+6,Humana,Catastrophic,90,100000,Active
+7,WellCare,Catastrophic,90,100000,Active
+8,Molina,POS,100,250000,Active
+9,Centene,Catastrophic,80,100000,Active
+10,Oscar Health,PPO,80,50000,Discontinued
+11,Bright Health,Catastrophic,70,1000000,Active
+12,Clover Health,HMO,90,25000,Active
+13,Allegiance,POS,95,250000,Discontinued
+14,Ambetter,POS,100,100000,Discontinued
+15,Anthem,POS,90,25000,Active
+16,Capital Health,Catastrophic,70,1000000,Active
+17,EmblemHealth,EPO,70,50000,Active
+18,First Health,Catastrophic,85,25000,Discontinued
+19,Geisinger,Catastrophic,100,1000000,Discontinued
+20,Health Net,Catastrophic,95,10000,Active
+21,Highmark,EPO,95,1000000,Active
+22,Horizon,Catastrophic,70,1000000,Discontinued
+23,Independence,Catastrophic,80,100000,Active
+24,Meritain,PPO,85,1000000,Active
+25,MultiPlan,POS,85,50000,Active
+26,PacificSource,POS,70,1000000,Active
+27,Priority Health,PPO,100,250000,Active
+28,Regence,Catastrophic,100,100000,Active
+29,SelectHealth,Catastrophic,80,1000000,Active
+30,Tufts,PPO,70,250000,Active

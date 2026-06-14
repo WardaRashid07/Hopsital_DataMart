@@ -1,0 +1,201 @@
+doctor_id,first_name,last_name,specialization,department_id,qualification,hire_date,status,phone
+1,David,Gonzalez,Pediatric,2,MBBS,2025-04-19,Inactive,+15224567281
+2,Donald,Anderson,Surgical,16,PhD,2012-03-08,Inactive,+17745408072
+3,Donald,Jackson,Emergency,19,PhD,2013-04-05,On Leave,+17052525206
+4,Robert,Garcia,Ortho,2,MBBS+MD,2003-10-03,Active,+15908852574
+5,Karen,Smith,Neuro,17,MBBS,2008-11-18,Active,+19876707197
+6,Jessica,Garcia,Emergency,4,MBBS,2009-12-24,Active,+17123997281
+7,Sandra,Martinez,Ortho,17,FRCS,2003-10-07,Active,+15823710343
+8,Ashley,Taylor,General,18,FRCS,2024-06-16,Active,+13147089806
+9,Mary,Davis,Cardio,10,MBBS,2007-02-24,Active,+12709937326
+10,Lisa,Thomas,Cardio,5,MD,2004-05-17,On Leave,+16334553384
+11,Betty,Miller,Neuro,18,PhD,2024-07-22,Inactive,+15828350099
+12,Patricia,Davis,Surgical,17,MBBS,2014-06-01,On Leave,+17674860684
+13,James,Williams,Neuro,19,MBBS,2007-04-03,Active,+15382188789
+14,William,Thomas,Surgical,17,FRCS,2007-03-24,On Leave,+17908930103
+15,Sarah,Wilson,Surgical,8,MBBS,2025-02-22,Active,+15628106470
+16,Sandra,Johnson,Neuro,14,MBBS,2014-01-13,Inactive,+15472833230
+17,Michael,Moore,Emergency,8,MD,2006-07-06,Active,+16735191056
+18,Margaret,Moore,General,3,MBBS,2014-11-18,Active,+12954965789
+19,Sarah,Thomas,Surgical,6,MBBS+MD,2013-01-06,Active,+12027550190
+20,Margaret,Anderson,Pediatric,9,MBBS+MD,2025-12-24,On Leave,+18779164991
+21,Elizabeth,Miller,General,5,FRCS,2006-12-18,Active,+19656261415
+22,Charles,Thomas,Cardio,2,FRCS,2001-03-02,On Leave,+12824117625
+23,John,Davis,Emergency,3,MBBS,2019-10-08,On Leave,+18081666754
+24,Jessica,Jackson,Cardio,20,FRCS,2002-06-09,Active,+18856271130
+25,Richard,Jones,Neuro,8,PhD,2008-08-11,Active,+12098688755
+26,Patricia,Williams,Cardio,20,MD,2018-09-09,Active,+15572154126
+27,Elizabeth,Garcia,Emergency,8,FRCS,2011-12-10,On Leave,+18699874152
+28,Anthony,Moore,Pediatric,1,MBBS,2021-03-09,Active,+13093607983
+29,Nancy,Miller,Neuro,9,PhD,2009-04-22,Inactive,+14709479356
+30,Donald,Johnson,General,16,MBBS+MD,2008-05-02,Active,+15413194789
+31,Betty,Anderson,Cardio,9,MBBS+MD,2005-09-01,Active,+12773500715
+32,Anthony,Lopez,Cardio,18,FRCS,2001-03-14,Active,+12426171716
+33,Sandra,Johnson,Pediatric,12,MD,2025-11-08,Inactive,+13056933742
+34,Nancy,Jones,Surgical,18,MD,2013-03-14,Active,+13836573147
+35,Lisa,Davis,Pediatric,14,MD,2025-12-04,Active,+12398896868
+36,Anthony,Anderson,Pediatric,8,PhD,2006-04-08,Active,+18754240180
+37,William,Williams,Ortho,13,PhD,2010-06-21,On Leave,+16099996207
+38,Patricia,Rodriguez,Surgical,11,FRCS,2000-05-02,Active,+18108290770
+39,Margaret,Hernandez,Emergency,12,FRCS,2023-09-04,Active,+17904188992
+40,Daniel,Wilson,General,9,FRCS,2001-09-22,Inactive,+19594305700
+41,John,Hernandez,Cardio,12,PhD,2013-11-28,Active,+19376038571
+42,Lisa,Wilson,Pediatric,17,MBBS+MD,2009-12-10,On Leave,+13304218542
+43,Richard,Garcia,Cardio,14,FRCS,2021-05-13,On Leave,+12006098175
+44,Jessica,Jackson,Cardio,10,PhD,2006-08-15,Active,+18914585314
+45,Margaret,Garcia,Neuro,17,MBBS,2015-05-17,Inactive,+18486623525
+46,Linda,Martinez,Surgical,3,MD,2024-03-01,Active,+14508971465
+47,John,Anderson,Emergency,20,FRCS,2024-04-23,Inactive,+15939294272
+48,Robert,Smith,Ortho,13,MBBS,2007-07-08,Active,+19129689889
+49,Karen,Davis,Ortho,15,MBBS,2001-08-05,Active,+18839910914
+50,David,Anderson,Cardio,18,FRCS,2019-07-27,On Leave,+16563670226
+51,William,Davis,Ortho,16,PhD,2014-09-16,Inactive,+14445606980
+52,Daniel,Martinez,Surgical,15,PhD,2002-06-11,On Leave,+12823321531
+53,Richard,Jones,Neuro,5,MD,2007-02-14,Active,+15388816912
+54,Michael,Wilson,Emergency,14,FRCS,2001-12-01,On Leave,+15899002392
+55,Elizabeth,Gonzalez,Ortho,1,MBBS+MD,2011-09-24,Inactive,+17594700025
+56,William,Wilson,Emergency,16,MBBS,2007-07-11,Inactive,+18957783308
+57,Ashley,Jones,Cardio,6,FRCS,2014-01-13,On Leave,+17771454696
+58,Jessica,Jones,Ortho,3,MBBS+MD,2020-03-02,Active,+15886492066
+59,David,Hernandez,Ortho,7,MBBS+MD,2014-05-25,Active,+14582374158
+60,Betty,Moore,General,16,PhD,2000-04-21,Active,+19991675419
+61,Michael,Smith,Cardio,1,MD,2007-04-05,Active,+18852919136
+62,Joseph,Rodriguez,Ortho,19,PhD,2006-03-20,On Leave,+19652921542
+63,Patricia,Jackson,General,6,PhD,2009-10-22,Active,+16064327421
+64,Daniel,Davis,General,3,PhD,2018-11-20,Active,+17791689025
+65,Jessica,Lopez,General,12,FRCS,2017-11-11,Active,+16309224219
+66,Susan,Anderson,Neuro,4,MD,2013-07-06,Inactive,+17345531230
+67,Ashley,Moore,Ortho,20,MBBS+MD,2025-08-14,Inactive,+18065502929
+68,Anthony,Williams,Pediatric,11,MBBS+MD,2007-04-25,Active,+17837358385
+69,Sarah,Hernandez,Surgical,11,MBBS+MD,2000-04-12,Active,+15485691890
+70,Donald,Rodriguez,Cardio,20,MBBS,2022-09-07,Active,+14477818732
+71,Matthew,Davis,Neuro,16,MBBS+MD,2017-11-23,Active,+16581289293
+72,Linda,Gonzalez,Neuro,3,MD,2009-05-22,On Leave,+15778939993
+73,Susan,Wilson,Neuro,18,FRCS,2016-06-12,Inactive,+16645545223
+74,Linda,Brown,Neuro,10,MD,2008-06-04,Inactive,+17484106298
+75,Betty,Thomas,Pediatric,7,FRCS,2006-09-20,Active,+13024256752
+76,Susan,Garcia,Pediatric,10,MBBS,2007-12-18,Active,+14801763626
+77,Elizabeth,Jones,Neuro,2,MBBS+MD,2017-02-28,Active,+17875770422
+78,Joseph,Hernandez,Surgical,16,MBBS,2015-05-28,Active,+13162096280
+79,John,Jackson,Neuro,13,MBBS,2015-03-05,On Leave,+15112429098
+80,Karen,Wilson,Cardio,8,FRCS,2003-10-08,On Leave,+15898558378
+81,Sandra,Jackson,Emergency,15,PhD,2009-10-20,Active,+18242664863
+82,Michael,Rodriguez,Neuro,7,MBBS,2020-03-08,Active,+17652259379
+83,Jessica,Anderson,Neuro,6,FRCS,2000-08-10,Active,+14375833597
+84,Sandra,Anderson,General,10,MD,2022-05-26,Inactive,+18034318855
+85,Karen,Davis,Neuro,14,MD,2003-05-27,Active,+12732000560
+86,Elizabeth,Martin,Neuro,6,FRCS,2025-05-15,Active,+16796101803
+87,Thomas,Moore,Emergency,13,MBBS+MD,2008-02-20,Active,+16426407658
+88,James,Williams,Surgical,20,FRCS,2008-10-01,Inactive,+14751674975
+89,Thomas,Anderson,Pediatric,6,MD,2015-10-14,Inactive,+17032530793
+90,Jessica,Hernandez,Pediatric,16,MBBS,2011-03-11,Active,+19109312590
+91,Richard,Moore,General,10,MBBS+MD,2021-02-11,Active,+15312944841
+92,Anthony,Smith,Neuro,13,FRCS,2016-08-14,Active,+13929697969
+93,Matthew,Thomas,Neuro,12,MBBS+MD,2019-01-07,Active,+17623198037
+94,Donald,Thomas,General,10,MBBS,2014-11-20,Active,+19263657144
+95,James,Moore,Emergency,10,MBBS,2017-04-27,Active,+16722970754
+96,Ashley,Martinez,Cardio,5,PhD,2015-07-27,Active,+16835089126
+97,Robert,Gonzalez,Surgical,15,FRCS,2017-09-24,Active,+12715634662
+98,Ashley,Taylor,Pediatric,14,MBBS,2010-05-24,Active,+18019214801
+99,Karen,Thomas,Pediatric,5,PhD,2014-09-25,On Leave,+15868639414
+100,Daniel,Davis,Cardio,11,MBBS+MD,2006-04-28,Active,+12446338112
+101,Ashley,Gonzalez,Emergency,16,MD,2022-08-02,Active,+17146569946
+102,Patricia,Taylor,Emergency,4,MBBS,2014-12-05,Active,+18703589751
+103,Margaret,Rodriguez,Pediatric,3,FRCS,2015-12-13,Inactive,+12826512415
+104,David,Thomas,Ortho,18,FRCS,2012-01-20,Active,+14405821419
+105,John,Wilson,General,8,MBBS,2023-08-06,Inactive,+15061485654
+106,Margaret,Johnson,Pediatric,2,PhD,2010-06-14,Active,+14509911492
+107,Lisa,Garcia,Surgical,14,MD,2018-02-20,Active,+18345040453
+108,Robert,Davis,Emergency,16,PhD,2018-08-09,Inactive,+12098805654
+109,Karen,Garcia,General,10,MBBS+MD,2021-06-19,Active,+18548118722
+110,Sandra,Martinez,Surgical,9,MBBS+MD,2014-08-04,Active,+15907022335
+111,Daniel,Martinez,General,19,MBBS+MD,2009-05-01,On Leave,+19021822825
+112,Sarah,Martinez,Ortho,20,MD,2023-10-26,Active,+14244189885
+113,Lisa,Jones,Neuro,20,MBBS,2008-11-21,Active,+15168395785
+114,Susan,Jones,General,2,PhD,2018-06-24,Active,+13794368777
+115,Karen,Lopez,Cardio,5,FRCS,2025-05-27,Active,+14639084065
+116,Sandra,Hernandez,Ortho,10,MBBS,2023-08-03,Active,+19724785186
+117,Karen,Lopez,General,13,MBBS+MD,2025-01-09,On Leave,+13268630043
+118,Betty,Rodriguez,Cardio,12,MBBS+MD,2021-11-12,Active,+18914922880
+119,Nancy,Moore,Pediatric,16,FRCS,2000-04-21,Active,+18508789116
+120,Jessica,Brown,Surgical,10,MBBS,2020-01-10,Active,+13182630611
+121,Robert,Gonzalez,Emergency,8,PhD,2017-11-24,Inactive,+17538031780
+122,Betty,Jones,Emergency,19,MBBS,2023-08-20,Active,+14861548888
+123,Joseph,Anderson,Surgical,12,PhD,2006-02-22,Active,+17577017548
+124,William,Miller,General,2,MBBS+MD,2012-02-22,Active,+18571358318
+125,David,Davis,Surgical,2,FRCS,2025-04-03,On Leave,+14124623062
+126,Matthew,Jones,Ortho,8,FRCS,2010-01-09,Active,+13335205279
+127,Lisa,Smith,Surgical,6,MBBS,2003-06-26,Active,+18026431983
+128,William,Johnson,Surgical,1,MBBS+MD,2005-09-04,Inactive,+12658990081
+129,Susan,Taylor,Cardio,15,MBBS,2024-08-17,Active,+18291727544
+130,Joseph,Smith,General,17,MBBS+MD,2009-07-14,Inactive,+13109225346
+131,Donald,Williams,Pediatric,15,FRCS,2002-03-03,Active,+14816455706
+132,Thomas,Martinez,Emergency,13,FRCS,2019-10-14,Active,+19182919549
+133,Sandra,Miller,Emergency,18,MBBS+MD,2023-04-14,Active,+16647689582
+134,Patricia,Hernandez,Emergency,14,PhD,2023-11-09,Active,+13568956894
+135,Anthony,Williams,General,3,MBBS+MD,2002-02-24,Inactive,+15813182975
+136,Charles,Moore,Cardio,18,PhD,2001-11-04,Active,+15628095702
+137,Nancy,Martinez,Pediatric,2,MBBS,2009-10-17,Active,+13589089795
+138,Susan,Moore,Pediatric,8,MBBS,2003-05-19,Active,+16391440466
+139,Anthony,Rodriguez,General,20,MD,2021-05-23,Active,+15476889195
+140,Sandra,Jones,Cardio,1,MBBS+MD,2005-02-05,Inactive,+18481514340
+141,Thomas,Miller,Emergency,3,MBBS+MD,2023-08-11,Active,+15786228407
+142,Charles,Martin,General,11,MBBS,2024-03-06,On Leave,+12502368710
+143,Lisa,Wilson,Emergency,9,FRCS,2014-08-14,Active,+14209595744
+144,Jessica,Brown,Pediatric,4,FRCS,2011-08-17,Inactive,+15151761976
+145,Nancy,Johnson,General,8,MD,2012-05-07,Active,+19825286905
+146,Patricia,Smith,Emergency,10,MBBS+MD,2010-03-05,Active,+17454860617
+147,Anthony,Lopez,General,17,MBBS+MD,2017-12-02,Active,+12198713396
+148,Charles,Wilson,Cardio,3,MBBS+MD,2010-12-21,Active,+14962932288
+149,David,Garcia,Ortho,13,FRCS,2000-08-27,Inactive,+15702478574
+150,Linda,Wilson,Cardio,14,MBBS+MD,2003-09-03,Active,+15176696087
+151,Matthew,Garcia,General,8,FRCS,2010-11-04,On Leave,+17224253164
+152,Betty,Jones,Surgical,12,MBBS,2011-03-09,Active,+13773564729
+153,Matthew,Thomas,Emergency,3,FRCS,2005-10-15,Inactive,+17786422534
+154,Joseph,Williams,Emergency,11,MBBS+MD,2004-11-10,Active,+18051942411
+155,John,Martinez,Emergency,12,MBBS+MD,2016-01-02,Active,+14932287332
+156,Nancy,Taylor,Emergency,3,MBBS+MD,2019-10-18,Inactive,+12428545279
+157,Michael,Hernandez,Cardio,19,MBBS+MD,2020-09-05,Active,+16612736473
+158,John,Taylor,Neuro,11,MD,2022-01-08,Inactive,+16488372274
+159,Nancy,Garcia,Pediatric,17,PhD,2016-05-13,Active,+19936676858
+160,Margaret,Hernandez,General,20,PhD,2001-02-18,Inactive,+15955767195
+161,Sandra,Martin,Ortho,9,MD,2023-06-03,On Leave,+18793372774
+162,Christopher,Gonzalez,Surgical,12,FRCS,2009-12-03,Active,+17727319630
+163,Lisa,Taylor,General,11,MBBS+MD,2004-09-12,Active,+15716181912
+164,David,Thomas,Surgical,6,MD,2006-03-05,Active,+15022696860
+165,Karen,Taylor,General,17,PhD,2024-10-05,On Leave,+15853587931
+166,Anthony,Martin,Ortho,6,MD,2005-12-15,Active,+16207111929
+167,Nancy,Martinez,Ortho,8,MBBS+MD,2014-04-18,Active,+15168868776
+168,Lisa,Jackson,Emergency,7,MBBS+MD,2011-05-25,Active,+17149849306
+169,Anthony,Miller,Ortho,14,FRCS,2005-03-28,Active,+12539062973
+170,Ashley,Brown,Neuro,12,FRCS,2017-02-10,Active,+19813689594
+171,Donald,Taylor,Surgical,9,MBBS+MD,2014-02-08,Active,+15571447451
+172,Richard,Taylor,Pediatric,14,MD,2001-07-03,Active,+14291472908
+173,Anthony,Hernandez,Ortho,11,MD,2003-03-02,Active,+16833328554
+174,Nancy,Smith,General,16,MBBS,2014-05-07,Active,+17619854536
+175,Matthew,Martinez,Surgical,14,PhD,2003-02-02,Active,+16298669093
+176,Anthony,Thomas,Cardio,3,FRCS,2003-01-21,On Leave,+17885059048
+177,Jessica,Smith,Cardio,5,PhD,2009-04-19,Active,+13912436363
+178,John,Taylor,Cardio,17,FRCS,2011-09-18,Active,+15998887557
+179,Richard,Lopez,Pediatric,2,MBBS,2020-06-26,Active,+15535045421
+180,Charles,Hernandez,Surgical,4,MBBS,2024-06-18,Active,+18583937508
+181,Sarah,Garcia,Ortho,15,MD,2022-02-23,Active,+12375923149
+182,Margaret,Miller,General,7,PhD,2001-05-17,Active,+17568942330
+183,Matthew,Miller,Pediatric,9,PhD,2001-01-28,Inactive,+15395583814
+184,Susan,Wilson,Emergency,4,MBBS+MD,2025-07-11,Active,+17089347057
+185,Thomas,Rodriguez,Ortho,12,MBBS,2025-12-14,Active,+16404027557
+186,David,Brown,General,18,PhD,2009-11-10,Active,+16568149041
+187,Joseph,Lopez,Emergency,6,MBBS,2022-12-28,Active,+18298297090
+188,Margaret,Johnson,General,9,MBBS+MD,2020-06-17,Inactive,+18953684131
+189,Sandra,Martin,Neuro,1,MBBS+MD,2004-01-05,Active,+14417145971
+190,Charles,Johnson,Cardio,12,MD,2012-11-15,Active,+15808448065
+191,Robert,Taylor,Pediatric,3,MBBS+MD,2018-06-21,Active,+14552903351
+192,Jennifer,Thomas,Cardio,1,MBBS+MD,2023-09-04,Active,+19935366937
+193,Nancy,Martinez,Neuro,15,MBBS+MD,2006-04-04,Active,+12758584017
+194,Joseph,Williams,Ortho,6,PhD,2022-11-12,Inactive,+12665871470
+195,Daniel,Garcia,Ortho,10,PhD,2005-09-08,Active,+14053329967
+196,Sarah,Smith,Pediatric,8,FRCS,2025-10-12,Active,+17643177199
+197,John,Martinez,Emergency,20,MBBS+MD,2002-09-14,Active,+17882237331
+198,Christopher,Williams,Emergency,5,MBBS+MD,2010-11-17,Active,+13314052834
+199,Thomas,Johnson,Ortho,5,MBBS,2013-09-05,Active,+13683717354
+200,Linda,Lopez,Cardio,11,PhD,2022-02-09,Active,+18505604524
