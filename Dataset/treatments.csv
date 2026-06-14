@@ -1,0 +1,151 @@
+treatment_id,treatment_name,treatment_type,diagnosis_code,diagnosis_name,standard_cost,duration_minutes
+1,Heart Bypass Type 3,Therapy,ICD-882,Diagnosis_E_1,652,45
+2,Urine Test Type 1,Therapy,ICD-482,Diagnosis_C_2,1023,90
+3,Echocardiogram Type 1,Diagnostic,ICD-716,Diagnosis_E_3,3045,60
+4,MRI Scan Type 1,Consultation,ICD-240,Diagnosis_C_4,4146,60
+5,Appendectomy Type 1,Emergency,ICD-627,Diagnosis_B_5,4304,45
+6,Biopsy Type 2,Emergency,ICD-857,Diagnosis_C_6,2659,90
+7,Cataract Surgery Type 3,Emergency,ICD-601,Diagnosis_E_7,2805,45
+8,Endoscopy Type 1,Surgical,ICD-439,Diagnosis_A_8,3940,60
+9,Occupational Therapy Type 3,Preventive,ICD-744,Diagnosis_A_9,4831,90
+10,Physical Therapy Type 3,Emergency,ICD-691,Diagnosis_B_10,3937,120
+11,Tooth Extraction Type 2,Diagnostic,ICD-636,Diagnosis_E_11,470,60
+12,Endoscopy Type 3,Diagnostic,ICD-132,Diagnosis_E_12,1260,120
+13,Chemotherapy Type 1,Therapy,ICD-421,Diagnosis_D_13,950,30
+14,Allergy Test Type 1,Therapy,ICD-613,Diagnosis_E_14,3432,60
+15,Allergy Test Type 1,Emergency,ICD-312,Diagnosis_E_15,560,45
+16,Cataract Surgery Type 2,Surgical,ICD-277,Diagnosis_D_16,3968,90
+17,Root Canal Type 2,Preventive,ICD-890,Diagnosis_C_17,2854,90
+18,Chemotherapy Type 1,Surgical,ICD-671,Diagnosis_C_18,4016,30
+19,Echocardiogram Type 2,Preventive,ICD-312,Diagnosis_D_19,2488,45
+20,Knee Surgery Type 3,Preventive,ICD-380,Diagnosis_C_20,3980,15
+21,Prenatal Care Type 3,Therapy,ICD-504,Diagnosis_C_21,4747,30
+22,MRI Scan Type 2,Preventive,ICD-180,Diagnosis_C_22,2429,60
+23,Stress Test Type 2,Diagnostic,ICD-306,Diagnosis_E_23,2150,45
+24,Allergy Test Type 2,Diagnostic,ICD-211,Diagnosis_E_24,4654,120
+25,Radiation Type 1,Consultation,ICD-785,Diagnosis_E_25,4857,30
+26,MRI Scan Type 1,Therapy,ICD-438,Diagnosis_D_26,1957,15
+27,X-Ray Type 3,Diagnostic,ICD-516,Diagnosis_D_27,1176,60
+28,Echocardiogram Type 2,Surgical,ICD-392,Diagnosis_A_28,1683,15
+29,Radiation Type 3,Preventive,ICD-840,Diagnosis_A_29,4753,30
+30,Kidney Transplant Type 1,Consultation,ICD-956,Diagnosis_D_30,3473,60
+31,Liver Transplant Type 3,Surgical,ICD-997,Diagnosis_A_31,1576,15
+32,Tooth Extraction Type 3,Consultation,ICD-443,Diagnosis_C_32,2494,60
+33,Cataract Surgery Type 2,Diagnostic,ICD-971,Diagnosis_E_33,4500,60
+34,Chemotherapy Type 1,Surgical,ICD-266,Diagnosis_D_34,2285,120
+35,Allergy Test Type 1,Consultation,ICD-854,Diagnosis_C_35,2157,45
+36,Prenatal Care Type 1,Diagnostic,ICD-725,Diagnosis_D_36,4701,60
+37,Speech Therapy Type 1,Therapy,ICD-785,Diagnosis_A_37,4271,30
+38,Gallbladder Removal Type 2,Diagnostic,ICD-106,Diagnosis_C_38,1201,60
+39,Appendectomy Type 2,Surgical,ICD-409,Diagnosis_E_39,1979,120
+40,X-Ray Type 2,Preventive,ICD-468,Diagnosis_B_40,4743,15
+41,Appendectomy Type 2,Diagnostic,ICD-515,Diagnosis_E_41,1018,120
+42,Allergy Test Type 1,Preventive,ICD-402,Diagnosis_C_42,2597,90
+43,Radiation Type 1,Therapy,ICD-256,Diagnosis_D_43,1859,120
+44,Angioplasty Type 3,Emergency,ICD-582,Diagnosis_E_44,3110,120
+45,Echocardiogram Type 1,Preventive,ICD-872,Diagnosis_E_45,1839,15
+46,Appendectomy Type 3,Preventive,ICD-470,Diagnosis_A_46,4354,90
+47,MRI Scan Type 3,Emergency,ICD-307,Diagnosis_E_47,969,90
+48,Biopsy Type 2,Emergency,ICD-552,Diagnosis_A_48,1277,120
+49,Allergy Test Type 3,Therapy,ICD-193,Diagnosis_E_49,1732,60
+50,Appendectomy Type 1,Emergency,ICD-525,Diagnosis_D_50,505,90
+51,Root Canal Type 2,Preventive,ICD-926,Diagnosis_C_51,522,120
+52,Heart Bypass Type 2,Consultation,ICD-863,Diagnosis_B_52,228,90
+53,MRI Scan Type 2,Surgical,ICD-817,Diagnosis_A_53,648,90
+54,Liver Transplant Type 1,Therapy,ICD-132,Diagnosis_C_54,543,60
+55,Echocardiogram Type 1,Preventive,ICD-846,Diagnosis_D_55,1524,45
+56,Appendectomy Type 2,Therapy,ICD-182,Diagnosis_E_56,3183,30
+57,Blood Test Type 1,Emergency,ICD-502,Diagnosis_E_57,2898,30
+58,Endoscopy Type 1,Consultation,ICD-405,Diagnosis_D_58,1874,120
+59,Angioplasty Type 3,Therapy,ICD-943,Diagnosis_B_59,4510,30
+60,Knee Surgery Type 1,Surgical,ICD-293,Diagnosis_A_60,3823,15
+61,Vaccination Type 1,Diagnostic,ICD-311,Diagnosis_A_61,3484,15
+62,MRI Scan Type 2,Emergency,ICD-788,Diagnosis_A_62,4915,30
+63,Heart Bypass Type 2,Diagnostic,ICD-652,Diagnosis_B_63,412,15
+64,Cataract Surgery Type 2,Diagnostic,ICD-935,Diagnosis_E_64,1197,45
+65,Vaccination Type 3,Surgical,ICD-342,Diagnosis_C_65,4780,30
+66,Radiation Type 2,Surgical,ICD-381,Diagnosis_A_66,4320,90
+67,Kidney Transplant Type 3,Diagnostic,ICD-741,Diagnosis_D_67,4896,90
+68,MRI Scan Type 2,Preventive,ICD-787,Diagnosis_D_68,4110,90
+69,Allergy Test Type 2,Therapy,ICD-252,Diagnosis_C_69,2661,60
+70,Echocardiogram Type 3,Therapy,ICD-346,Diagnosis_B_70,1556,45
+71,Colonoscopy Type 2,Consultation,ICD-675,Diagnosis_D_71,1232,60
+72,Cataract Surgery Type 1,Therapy,ICD-348,Diagnosis_C_72,4615,30
+73,Annual Checkup Type 1,Therapy,ICD-967,Diagnosis_C_73,2755,15
+74,Stress Test Type 1,Consultation,ICD-374,Diagnosis_D_74,4437,120
+75,MRI Scan Type 1,Diagnostic,ICD-923,Diagnosis_E_75,4989,120
+76,Chemotherapy Type 2,Diagnostic,ICD-990,Diagnosis_C_76,4628,45
+77,Chemotherapy Type 1,Preventive,ICD-220,Diagnosis_D_77,175,30
+78,Heart Bypass Type 1,Emergency,ICD-429,Diagnosis_C_78,1725,60
+79,Root Canal Type 3,Surgical,ICD-415,Diagnosis_C_79,3869,45
+80,Kidney Transplant Type 2,Therapy,ICD-200,Diagnosis_D_80,4250,45
+81,Knee Surgery Type 2,Therapy,ICD-146,Diagnosis_E_81,1714,30
+82,X-Ray Type 2,Emergency,ICD-698,Diagnosis_E_82,1245,120
+83,Occupational Therapy Type 1,Diagnostic,ICD-437,Diagnosis_B_83,3470,60
+84,Endoscopy Type 1,Therapy,ICD-663,Diagnosis_C_84,4717,45
+85,Stress Test Type 3,Preventive,ICD-602,Diagnosis_D_85,4052,30
+86,Biopsy Type 1,Preventive,ICD-659,Diagnosis_D_86,2935,30
+87,Annual Checkup Type 1,Emergency,ICD-134,Diagnosis_A_87,4491,120
+88,Echocardiogram Type 1,Therapy,ICD-240,Diagnosis_B_88,447,15
+89,X-Ray Type 1,Emergency,ICD-566,Diagnosis_C_89,1287,15
+90,Prenatal Care Type 2,Consultation,ICD-106,Diagnosis_E_90,4008,90
+91,X-Ray Type 1,Emergency,ICD-839,Diagnosis_C_91,3419,90
+92,X-Ray Type 3,Preventive,ICD-790,Diagnosis_D_92,2398,30
+93,Liver Transplant Type 1,Emergency,ICD-252,Diagnosis_B_93,926,30
+94,Physical Therapy Type 2,Surgical,ICD-914,Diagnosis_D_94,4362,15
+95,Heart Bypass Type 2,Emergency,ICD-349,Diagnosis_B_95,3106,45
+96,Annual Checkup Type 3,Consultation,ICD-195,Diagnosis_D_96,710,60
+97,Root Canal Type 2,Consultation,ICD-752,Diagnosis_A_97,3139,120
+98,CT Scan Type 2,Therapy,ICD-760,Diagnosis_C_98,1453,90
+99,Kidney Transplant Type 3,Consultation,ICD-335,Diagnosis_B_99,831,120
+100,Gallbladder Removal Type 2,Consultation,ICD-176,Diagnosis_C_100,4693,90
+101,Prenatal Care Type 1,Diagnostic,ICD-970,Diagnosis_C_101,4666,15
+102,Tooth Extraction Type 1,Preventive,ICD-940,Diagnosis_D_102,1747,15
+103,Biopsy Type 3,Diagnostic,ICD-680,Diagnosis_D_103,2501,120
+104,Speech Therapy Type 2,Preventive,ICD-243,Diagnosis_A_104,4478,90
+105,MRI Scan Type 1,Therapy,ICD-337,Diagnosis_A_105,2883,45
+106,Heart Bypass Type 2,Consultation,ICD-749,Diagnosis_C_106,4929,60
+107,Radiation Type 2,Emergency,ICD-484,Diagnosis_D_107,4069,30
+108,Prenatal Care Type 2,Consultation,ICD-890,Diagnosis_E_108,4849,45
+109,Allergy Test Type 1,Consultation,ICD-374,Diagnosis_B_109,2068,60
+110,Stress Test Type 2,Surgical,ICD-469,Diagnosis_A_110,1313,15
+111,Occupational Therapy Type 2,Surgical,ICD-879,Diagnosis_C_111,92,15
+112,CT Scan Type 1,Therapy,ICD-559,Diagnosis_E_112,1135,90
+113,Angioplasty Type 1,Consultation,ICD-191,Diagnosis_C_113,4247,90
+114,Vaccination Type 3,Surgical,ICD-984,Diagnosis_D_114,812,15
+115,Angioplasty Type 2,Consultation,ICD-842,Diagnosis_E_115,2440,30
+116,Cataract Surgery Type 1,Preventive,ICD-489,Diagnosis_B_116,4735,30
+117,Occupational Therapy Type 2,Therapy,ICD-249,Diagnosis_A_117,2252,30
+118,Physical Therapy Type 2,Surgical,ICD-595,Diagnosis_A_118,3610,45
+119,Radiation Type 3,Preventive,ICD-607,Diagnosis_E_119,2111,90
+120,Appendectomy Type 1,Diagnostic,ICD-411,Diagnosis_A_120,1651,60
+121,Endoscopy Type 3,Therapy,ICD-923,Diagnosis_C_121,2771,60
+122,Angioplasty Type 3,Emergency,ICD-239,Diagnosis_C_122,2792,45
+123,Allergy Test Type 1,Therapy,ICD-421,Diagnosis_B_123,4991,60
+124,Occupational Therapy Type 3,Preventive,ICD-748,Diagnosis_D_124,2664,90
+125,Speech Therapy Type 2,Surgical,ICD-936,Diagnosis_D_125,2035,45
+126,Liver Transplant Type 3,Diagnostic,ICD-706,Diagnosis_E_126,982,30
+127,X-Ray Type 3,Therapy,ICD-825,Diagnosis_B_127,4556,60
+128,Endoscopy Type 3,Consultation,ICD-938,Diagnosis_D_128,2436,120
+129,Urine Test Type 3,Surgical,ICD-347,Diagnosis_C_129,4140,120
+130,Allergy Test Type 2,Therapy,ICD-175,Diagnosis_D_130,1312,90
+131,Tooth Extraction Type 2,Emergency,ICD-618,Diagnosis_D_131,3975,90
+132,Colonoscopy Type 2,Preventive,ICD-931,Diagnosis_E_132,351,90
+133,Blood Test Type 1,Preventive,ICD-780,Diagnosis_C_133,746,30
+134,Tooth Extraction Type 3,Preventive,ICD-762,Diagnosis_D_134,412,45
+135,Blood Test Type 1,Consultation,ICD-364,Diagnosis_B_135,3576,90
+136,Root Canal Type 3,Preventive,ICD-689,Diagnosis_B_136,4299,60
+137,Heart Bypass Type 2,Preventive,ICD-702,Diagnosis_E_137,3114,30
+138,X-Ray Type 2,Consultation,ICD-402,Diagnosis_D_138,2875,15
+139,Endoscopy Type 3,Diagnostic,ICD-456,Diagnosis_C_139,1000,45
+140,Colonoscopy Type 1,Emergency,ICD-594,Diagnosis_C_140,3780,60
+141,Appendectomy Type 3,Preventive,ICD-563,Diagnosis_C_141,849,15
+142,MRI Scan Type 3,Consultation,ICD-123,Diagnosis_C_142,2509,120
+143,Prenatal Care Type 1,Preventive,ICD-349,Diagnosis_E_143,945,30
+144,Biopsy Type 2,Emergency,ICD-536,Diagnosis_D_144,4571,30
+145,Annual Checkup Type 1,Diagnostic,ICD-755,Diagnosis_D_145,3368,60
+146,Stress Test Type 3,Diagnostic,ICD-560,Diagnosis_E_146,289,60
+147,X-Ray Type 3,Diagnostic,ICD-310,Diagnosis_C_147,3235,120
+148,Tooth Extraction Type 1,Emergency,ICD-291,Diagnosis_C_148,562,45
+149,Appendectomy Type 1,Surgical,ICD-786,Diagnosis_D_149,1664,90
+150,Vaccination Type 2,Emergency,ICD-501,Diagnosis_E_150,2617,15
