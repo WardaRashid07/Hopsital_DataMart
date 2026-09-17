@@ -188,6 +188,5 @@ hospital-data-warehouse/
 
 ## Known limitations / Future work
 
-- **dbt migration (Silver → Gold) is not yet implemented.** The current Gold layer is built with T-SQL stored procedures. A planned follow-up is migrating the Silver-to-Gold transformation logic into dbt models (as snapshots for the SCD Type 2 dimensions), while leaving Bronze/Silver loading as-is — a common real-world hybrid rather than a full rewrite.
-- Bronze/Silver do not currently log or quarantine rejected rows (e.g. malformed CSV rows dropped during Silver cleaning) — they are silently excluded rather than tracked for review.
+- **dbt migration (Silver → Gold) is not yet implemented.** 
 - The pipeline currently loads from local CSV files; there's no incremental/streaming ingestion from the source systems it models.
