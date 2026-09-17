@@ -1,0 +1,21 @@
+department_id,department_name,building,floor,head_doctor,established_date
+1,Cardiology,Main,1st,Dr. Head-1,1997-04-08
+2,Neurology,East,Basement,Dr. Head-2,1986-11-24
+3,Orthopedics,South,1st,Dr. Head-3,2017-07-02
+4,Pediatrics,Main,1st,Dr. Head-4,1993-04-17
+5,Oncology,South,1st,Dr. Head-5,2015-04-23
+6,Radiology,South,4th,Dr. Head-6,1994-08-19
+7,Emergency,West,1st,Dr. Head-7,1990-12-14
+8,Dermatology,West,3rd,Dr. Head-8,1989-04-25
+9,Ophthalmology,West,1st,Dr. Head-9,1985-07-04
+10,ENT,West,3rd,Dr. Head-10,2018-05-26
+11,Psychiatry,Main,Basement,Dr. Head-11,2009-09-04
+12,Urology,North,1st,Dr. Head-12,2015-05-27
+13,Nephrology,South,3rd,Dr. Head-13,2016-04-23
+14,Gastroenterology,Main,1st,Dr. Head-14,1994-05-03
+15,Pulmonology,East,1st,Dr. Head-15,2004-05-15
+16,Endocrinology,West,2nd,Dr. Head-16,2003-06-07
+17,Hematology,West,Basement,Dr. Head-17,1984-10-21
+18,Infectious Diseases,East,5th,Dr. Head-18,1995-03-15
+19,Rheumatology,North,3rd,Dr. Head-19,2020-12-18
+20,Geriatrics,East,Basement,Dr. Head-20,2000-01-08
