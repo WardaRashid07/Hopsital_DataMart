@@ -1,0 +1,20 @@
+services:
+
+  airflow:
+    image: apache/airflow:3.1.0
+
+    ports:
+      - "8080:8080"
+
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: "SequentialExecutor"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: "sqlite:////opt/airflow/airflow.db"
+
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+      - "C:/Users/warda/OneDrive/Documents/SQL Server Management Studio 21/Code Snippets/SQL/My Code Snippets:/opt/airflow/sql"
+
+    command: standalone

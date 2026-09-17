@@ -1,0 +1,19 @@
+# Environment variables / secrets
+.env
+.env.*
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
